@@ -99,6 +99,3 @@ curl -X POST http://localhost:3000/login \
 | JWT_SECRET | Secret key for JWT | `your_secret_key` |
 | PORT | Server port | `3000` |
 
-## License
-
-MIT
